@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BaeChaemuk
 - 👀 I’m interested in AI tech.
 - 🌱 I’m currently learning pandas.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me baech0713@gmail.com
 
 <!---
