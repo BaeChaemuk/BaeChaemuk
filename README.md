@@ -1,6 +1,4 @@
-- 👋 전남대학교 인공지능학부 배채묵입니다.
-- 👀 AI 분야에 관심을 갖고 있습니다.
-- 📫 baech0713@gmail.com
+
 
 <!---
 BaeChaemuk/BaeChaemuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
